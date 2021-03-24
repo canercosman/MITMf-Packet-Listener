@@ -12,7 +12,7 @@ Options:
  
  *and open a new tab!*
  
-<pre># packet_listener.py [options]
+<pre># python3 packet_listener.py [options]
 
 Options:
   -h --help            show this help message and exit
