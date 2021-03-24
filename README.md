@@ -2,7 +2,7 @@
 
 ### Usage:
 <pre>
-# python3 mitm.py [options] 
+# python3 mitmf.py [options] 
 
 Options:
   -h --help            show this help message and exit
